@@ -1,4 +1,4 @@
-IF YOU LIKED THIS CODE PLEASE FOLLOW ME!
+If you like this code, then please follow me on GitHub! If you would like to use this code then please credit me and remove this text from the code.
 <!DOCTYPE html>
 
 <html>
